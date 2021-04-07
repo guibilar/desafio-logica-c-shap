@@ -1,0 +1,7 @@
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\bin\Debug\Algorithm.Logic.dll.config
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\bin\Debug\Algorithm.Logic.dll
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\bin\Debug\Algorithm.Logic.pdb
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\obj\Debug\Algorithm.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\obj\Debug\Algorithm.Logic.dll
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\obj\Debug\Algorithm.Logic.pdb
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\obj\Debug\Algorithm.Logic.csprojAssemblyReference.cache

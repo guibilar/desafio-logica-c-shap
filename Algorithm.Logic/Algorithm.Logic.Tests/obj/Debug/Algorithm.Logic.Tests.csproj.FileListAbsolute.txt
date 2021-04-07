@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.csprojAssemblyReference.cache
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Tests.dll
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Tests.pdb
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.dll
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.pdb
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.dll.config
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.csproj.CopyComplete
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.dll
+C:\Users\Guilherme\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.pdb

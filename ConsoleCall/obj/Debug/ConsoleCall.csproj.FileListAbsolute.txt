@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\bin\Debug\ConsoleCall.exe.config
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\bin\Debug\ConsoleCall.exe
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\bin\Debug\ConsoleCall.pdb
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\bin\Debug\Algorithm.Logic.dll
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\bin\Debug\Algorithm.Logic.pdb
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\bin\Debug\Algorithm.Logic.dll.config
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\obj\Debug\ConsoleCall.csprojAssemblyReference.cache
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\obj\Debug\ConsoleCall.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\obj\Debug\ConsoleCall.csproj.CopyComplete
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\obj\Debug\ConsoleCall.exe
+C:\Users\Guilherme\Downloads\Algorithm.Logic\ConsoleCall\obj\Debug\ConsoleCall.pdb
